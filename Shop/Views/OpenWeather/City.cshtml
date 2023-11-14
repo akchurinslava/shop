@@ -1,0 +1,41 @@
+﻿@model Shop.Models.OpenWeather.OpenWeatherViewModel
+
+@{
+    ViewData["Title"] = "City";
+}
+<div class="container">
+    <h2>Forecast for the selected city</h2>
+    <h2>@Html.DisplayFor(model => model.City)</h2>
+    <hr />
+
+    <div class="form-group row">
+        <label asp-for="MainTemp" class="col-sm-2 col-form-label"></label>
+        @Html.DisplayFor(model => model.MainTemp) °C
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="MainFeelsLike" class="col-sm-2 col-form-label"></label>
+        @Html.DisplayFor(model => model.MainFeelsLike) °C
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="WeatherDescription" class="col-sm-2 col-form-label"></label>
+        @Html.DisplayFor(model => model.WeatherDescription)
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="MainPressure" class="col-sm-2 col-form-label"></label>
+        @Html.DisplayFor(model => model.MainPressure) P
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="MainHumidity" class="col-sm-2 col-form-label"></label>
+        @Html.DisplayFor(model => model.MainHumidity) %
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="WindSpeed" class="col-sm-2 col-form-label"></label>
+        @Html.DisplayFor(model => model.WindSpeed) m/s
+    </div>
+</div>
+
