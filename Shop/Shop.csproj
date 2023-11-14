@@ -16,11 +16,13 @@
     <Folder Include="multipleFileUpload\" />
     <Folder Include="Views\OpenWeather\" />
     <Folder Include="Models\OpenWeather\" />
+    <Folder Include="Models\ChuckNorris\" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="Views\OpenWeather\" />
     <None Remove="Models\OpenWeather\" />
+    <None Remove="Models\ChuckNorris\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.0">

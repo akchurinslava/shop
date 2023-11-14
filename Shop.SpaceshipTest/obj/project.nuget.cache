@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ymxalEMSekHV6X6NZcrONXgXzumeOFZB8ye685nqPRVnjEzz+PvzFruIjKkFJkkAbUkywuls+tNN+L+iRYOEpg==",
+  "dgSpecHash": "fFaFstVfvvYX0r0JbeZEIW9cSkNNm7m6l9Stvxh4HP9lDFv1fJEV+yQpdmLBFZYK9Pu/j+SadQ8rS8jch0eADA==",
   "success": true,
-  "projectFilePath": "/Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/shop/Shop.SpaceshipTest/Shop.SpaceshipTest.csproj",
+  "projectFilePath": "/Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop.SpaceshipTest/Shop.SpaceshipTest.csproj",
   "expectedPackageFiles": [
     "/Users/my_pc/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/my_pc/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
