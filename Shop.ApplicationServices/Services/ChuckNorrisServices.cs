@@ -14,15 +14,15 @@ namespace Shop.ApplicationServices.Services
             using (WebClient client = new WebClient())
             {
                 string json = client.DownloadString(url);
-                ChuckNorrisResponseRootDto chucknorrisResult = new JavaScriptSerializer().Deserialize<ChuckNorrisResponseRootDto>(json);
+                ChuckNorrisResponseRootDto chuckNorrisResult = new JavaScriptSerializer().Deserialize<ChuckNorrisResponseRootDto>(json);
 
-                dto.Categories = chucknorrisResult.Categories;
-                dto.CreatedAt = chucknorrisResult.CreatedAt;
-                dto.IconUrl = chucknorrisResult.IconUrl;
-                dto.Id = chucknorrisResult.Id;
-                dto.UpdatedAt = chucknorrisResult.UpdatedAt;
-                dto.Url = chucknorrisResult.Url;
-                dto.Value = chucknorrisResult.Value;
+                dto.Categories = chuckNorrisResult.Categories;
+                dto.CreatedAt = chuckNorrisResult.CreatedAt;
+                dto.IconUrl = chuckNorrisResult.IconUrl;
+                dto.Id = chuckNorrisResult.Id;
+                dto.UpdatedAt = chuckNorrisResult.UpdatedAt;
+                dto.Url = chuckNorrisResult.Url;
+                dto.Value = chuckNorrisResult.Value;
             }
 
 

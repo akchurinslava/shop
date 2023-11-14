@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Text.Json.Serialization;
-using Shop.Core.Dto.OpenWeatherDtos;
 namespace Shop.Core.ChuckNorrisDtos
 {
-	public class ChuckNorrisResponseRootDto
-	{
+    public class ChuckNorrisResponseRootDto
+    {
         [JsonPropertyName("categories")]
         public List<string> Categories { get; set; }
 

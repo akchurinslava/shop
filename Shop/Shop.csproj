@@ -17,12 +17,14 @@
     <Folder Include="Views\OpenWeather\" />
     <Folder Include="Models\OpenWeather\" />
     <Folder Include="Models\ChuckNorris\" />
+    <Folder Include="Views\ChuckNorris\" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="Views\OpenWeather\" />
     <None Remove="Models\OpenWeather\" />
     <None Remove="Models\ChuckNorris\" />
+    <None Remove="Views\ChuckNorris\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.0">

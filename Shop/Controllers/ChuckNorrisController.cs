@@ -21,15 +21,15 @@ namespace Shop.Controllers
 		}
 
 		[HttpPost]
-		public IActionResult Joke(ChuckNorrisJokeViewModel model)
+		public IActionResult GenerateJoke(ChuckNorrisJokeViewModel model)
 		{
-			//if (ModelState.IsValid)
-			//{
-				return RedirectToAction(nameof(Joke));
-			//}
+            //if (ModelState.IsValid)
+            //{
+            return RedirectToAction("Joke", "ChuckNorris", new { joke = model.JokeName });
+            //}
 
-			//return View(model);
-		}
+            //return View(model);
+        }
 
 		[HttpGet]
 		public IActionResult Joke(string joke)

@@ -1,0 +1,14 @@
+﻿@model Shop.Models.ChuckNorris.ChuckNorrisViewModel
+
+@{
+    ViewData["Title"] = "Joke";
+}
+<div class="container">
+    <h2>Joke</h2>
+    <hr />
+
+    <div class="form-group row">
+        <label asp-for="Value" class="col-sm-2 col-form-label"></label>
+        @Html.DisplayFor(model => model.Value)
+    </div>
+</div>
