@@ -1,21 +1,23 @@
 ﻿<Properties StartupConfiguration="{A80FD6C1-FCF3-4227-B000-AE4D79EE9D2B}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Views/ChuckNorris/Joke.cshtml">
     <Files>
-      <File FileName="Shop/Views/ChuckNorris/Joke.cshtml" Line="12" Column="28" />
-      <File FileName="Shop/Views/ChuckNorris/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Shop/Views/ChuckNorris/Joke.cshtml" Line="15" Column="32" />
+      <File FileName="Shop/Views/ChuckNorris/Index.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Shop">
+          <Node name="Shop" expanded="True">
             <Node name="Shop" expanded="True">
               <Node name="Views" expanded="True">
-                <Node name="ChuckNorris" expanded="True">
-                  <Node name="Joke.cshtml" selected="True" />
-                </Node>
+                <Node name="ChuckNorris" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
@@ -37,8 +39,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
