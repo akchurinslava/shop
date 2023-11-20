@@ -3,12 +3,28 @@
 @{
     ViewData["Title"] = "Joke";
 }
-<div class="container">
-    <h2>Joke</h2>
-    <hr />
 
-    <div class="form-group row">
-        <label asp-for="Value" class="col-sm-2 col-form-label"></label>
-        @Html.DisplayFor(model => model.Value)
+<style>
+    label{
+        font-weight: bold;
+    }
+    #joke{
+        font-style: italic;
+    }
+</style>
+<div style="margin-top: 200px">
+
+    <div class="container">
+        <form method="post">
+            <div class="row justify-content-center">
+                <div class="col-md-5 text-center">
+
+                    <label asp-for="Value" class="col-sm-2 col-form-label">Joke:</label>
+                    <div id="joke">
+			            @Html.DisplayFor(model => model.Value)
+                    </div>
+                </div>
+            </div>
+        </form>
     </div>
 </div>
