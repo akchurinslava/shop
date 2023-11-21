@@ -1,16 +1,32 @@
 ﻿<Properties StartupConfiguration="{A80FD6C1-FCF3-4227-B000-AE4D79EE9D2B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Views/ChuckNorris/Joke.cshtml">
+  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop.ApplicationServices/Services/CocktailsServices.cs" relfile="Shop.ApplicationServices/Services/CocktailsServices.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Views/Cocktails/CocktailsResult.cshtml">
     <Files>
-      <File FileName="Shop/Views/ChuckNorris/Joke.cshtml" Line="15" Column="32" />
-      <File FileName="Shop/Views/ChuckNorris/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Shop/Views/Cocktails/CocktailsResult.cshtml" Line="118" Column="56" />
+      <File FileName="Shop/Controllers/CocktailsController.cs" Line="63" Column="30" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Shop" expanded="True">
             <Node name="Shop">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Cocktails" expanded="True" />
+                <Node name="OpenWeather" expanded="True" />
+              </Node>
               <Node name="Views" expanded="True">
-                <Node name="ChuckNorris" expanded="True" />
+                <Node name="Cocktails" expanded="True">
+                  <Node name="CocktailsResult.cshtml" selected="True" />
+                </Node>
+                <Node name="OpenWeather" expanded="True" />
+                <Node name="Shared" expanded="True" />
               </Node>
             </Node>
             <Node name="Shop.ApplicationServices">
@@ -19,6 +35,7 @@
             <Node name="Shop.Core">
               <Node name="Dto" expanded="True">
                 <Node name="ChuckNorrisDtos" expanded="True" />
+                <Node name="CocktailsDtos" expanded="True" />
               </Node>
               <Node name="ServiceInterface" expanded="True" />
             </Node>
@@ -28,10 +45,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

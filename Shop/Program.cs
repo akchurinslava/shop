@@ -30,6 +30,8 @@ builder.Services.AddScoped<IWeatherForecastServices, WeatherForecastServices>();
 
 builder.Services.AddScoped<IChuckNorrisServices, ChuckNorrisServices>();
 
+builder.Services.AddScoped<ICocktailsServices, CocktailsServices>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

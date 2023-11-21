@@ -18,6 +18,8 @@
     <Folder Include="Models\OpenWeather\" />
     <Folder Include="Models\ChuckNorris\" />
     <Folder Include="Views\ChuckNorris\" />
+    <Folder Include="Models\Cocktails\" />
+    <Folder Include="Views\Cocktails\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,6 +27,8 @@
     <None Remove="Models\OpenWeather\" />
     <None Remove="Models\ChuckNorris\" />
     <None Remove="Views\ChuckNorris\" />
+    <None Remove="Models\Cocktails\" />
+    <None Remove="Views\Cocktails\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.0">
