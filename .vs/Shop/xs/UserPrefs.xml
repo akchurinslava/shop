@@ -11,31 +11,26 @@
             <Node name="Shop">
               <Node name="Views" expanded="True">
                 <Node name="ChuckNorris" expanded="True" />
-                <Node name="Shared" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
               </Node>
             </Node>
-            <Node name="Shop.ApplicationServices" expanded="True">
+            <Node name="Shop.ApplicationServices">
               <Node name="Services" expanded="True" />
             </Node>
-            <Node name="Shop.Core" expanded="True">
+            <Node name="Shop.Core">
               <Node name="Dto" expanded="True">
                 <Node name="ChuckNorrisDtos" expanded="True" />
               </Node>
               <Node name="ServiceInterface" expanded="True" />
             </Node>
-            <Node name="Shop.Data" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
