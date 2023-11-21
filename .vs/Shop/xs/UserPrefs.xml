@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{A80FD6C1-FCF3-4227-B000-AE4D79EE9D2B}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Views/Cocktails/CocktailsResult.cshtml">
     <Files>
-      <File FileName="Shop/Views/Cocktails/Index.cshtml" />
-      <File FileName="Shop/Views/Cocktails/CocktailsResult.cshtml" Line="16" Column="56" />
+      <File FileName="Shop/Views/Cocktails/CocktailsResult.cshtml" Line="7" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Shop">
             <Node name="Shop">
+              <Node name="Models" expanded="True">
+                <Node name="Cocktails" expanded="True" />
+              </Node>
               <Node name="Views">
                 <Node name="Cocktails">
                   <Node name="CocktailsResult.cshtml" selected="True" />
@@ -28,8 +28,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
