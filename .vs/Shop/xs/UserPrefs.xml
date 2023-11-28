@@ -1,19 +1,8 @@
 ﻿<Properties StartupConfiguration="{A80FD6C1-FCF3-4227-B000-AE4D79EE9D2B}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Shop.ApplicationServices/Services/AccuWeatherServices.cs">
     <Files>
-      <File FileName="Shop/Controllers/AccuWeatherController.cs" />
-      <File FileName="Shop/Views/AccuWeather/CityResult.cshtml" />
-      <File FileName="Shop.ApplicationServices/Services/AccuWeatherServices.cs" Line="24" Column="51" />
-      <File FileName="Shop.ApplicationServices/Services/WeatherForecastServices.cs" />
-      <File FileName="Shop.Core/Dto/AccuWeatherDtos/AccuWeatherResultDto.cs" />
-      <File FileName="Shop.Core/Dto/AccuWeatherDtos/AccuWeatherResponseRootDto.cs" />
-      <File FileName="Shop.Core/ServiceInterface/IAccuWeatherServices.cs" />
-      <File FileName="Shop/Views/AccuWeather/Index.cshtml" />
-      <File FileName="Shop/Models/AccuWeather/AccuWeatherViewModel.cs" />
-      <File FileName="Shop/Models/AccuWeather/SearchAccuWeatherViewModel.cs" />
+      <File FileName="Shop.ApplicationServices/Services/AccuWeatherServices.cs" Line="19" Column="17" />
+      <File FileName="Shop.ApplicationServices/Services/WeatherForecastServices.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,9 +10,22 @@
           <Node name="Shop" expanded="True">
             <Node name="Shop" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="AccuWeather" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="AccuWeather" expanded="True" />
+              </Node>
             </Node>
-            <Node name="Shop.ApplicationServices" expanded="True">
-              <Node name="Services" expanded="True" />
+            <Node name="Shop.ApplicationServices">
+              <Node name="Services">
+                <Node name="AccuWeatherServices.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Shop.Core" expanded="True">
+              <Node name="Dto" expanded="True">
+                <Node name="AccuWeatherDtos" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -31,6 +33,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

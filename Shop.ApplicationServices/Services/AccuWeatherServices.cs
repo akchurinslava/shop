@@ -12,11 +12,12 @@ namespace Shop.ApplicationServices.Services
         public async Task<AccuWeatherResultDto> AccuWeatherResult(AccuWeatherResultDto dto)
         {
             string idAccuWeather = "Sq8rJIfcJEkHvyAMT8bYJjqxcQ34kXKb";
-            string url = $"https://dataservice.accuweather.com/locations/v1/cities/search?apikey={idAccuWeather}={dto.City}";
+            string url = $"https://dataservice.accuweather.com/locations/v1/cities/search?apikey={idAccuWeather}&q={dto.City}";
 
             using (WebClient client = new WebClient())
             {
                 string json = client.DownloadString(url);
+                Console.WriteLine(json);
                 AccuWeatherResponseRootDto accuWeatherResult = new JavaScriptSerializer().Deserialize<AccuWeatherResponseRootDto>(json);
 
                 
@@ -53,17 +54,17 @@ namespace Shop.ApplicationServices.Services
                 dto.DailyForecastTemperaturesMaximumsValue = accuWeatherResult2.DailyForecast[0].Temperatures.Maximums.Value;
                 dto.DailyForecastTemperaturesMaximumsUnit = accuWeatherResult2.DailyForecast[0].Temperatures.Maximums.Unit;
                 dto.DailyForecastTemperaturesMaximumsUnitType = accuWeatherResult2.DailyForecast[0].Temperatures.Maximums.UnitType;
-                dto.DailyForecastDaysIcon = accuWeatherResult2.DailyForecast[1].Days.Icon;
-                dto.DailyForecastDaysIconPhrase = accuWeatherResult2.DailyForecast[1].Days.IconPhrase;
-                dto.DailyForecastDaysHasPrecipitation = accuWeatherResult2.DailyForecast[1].Days.HasPrecipitation;
-                dto.DailyForecastDaysPrecipitationType = accuWeatherResult2.DailyForecast[1].Days.PrecipitationType;
-                dto.DailyForecastDaysPrecipitationIntensity = accuWeatherResult2.DailyForecast[1].Days.PrecipitationIntensity;
-                dto.DailyForecastNightsIcon = accuWeatherResult2.DailyForecast[2].Nights.Icon;
-                dto.DailyForecastNightsIconPhrase = accuWeatherResult2.DailyForecast[2].Nights.IconPhrase;
-                dto.DailyForecastNightsHasPrecipitation = accuWeatherResult2.DailyForecast[2].Nights.HasPrecipitation;
-                dto.DailyForecastSources = accuWeatherResult2.DailyForecast[3].Sources[0];
-                dto.DailyForecastMobileLink = accuWeatherResult2.DailyForecast[4].MobileLink;
-                dto.DailyForecastLink = accuWeatherResult2.DailyForecast[5].Link;
+                dto.DailyForecastDaysIcon = accuWeatherResult2.DailyForecast[0].Days.Icon;
+                dto.DailyForecastDaysIconPhrase = accuWeatherResult2.DailyForecast[0].Days.IconPhrase;
+                dto.DailyForecastDaysHasPrecipitation = accuWeatherResult2.DailyForecast[0].Days.HasPrecipitation;
+                dto.DailyForecastDaysPrecipitationType = accuWeatherResult2.DailyForecast[0].Days.PrecipitationType;
+                dto.DailyForecastDaysPrecipitationIntensity = accuWeatherResult2.DailyForecast[0].Days.PrecipitationIntensity;
+                dto.DailyForecastNightsIcon = accuWeatherResult2.DailyForecast[0].Nights.Icon;
+                dto.DailyForecastNightsIconPhrase = accuWeatherResult2.DailyForecast[0].Nights.IconPhrase;
+                dto.DailyForecastNightsHasPrecipitation = accuWeatherResult2.DailyForecast[0].Nights.HasPrecipitation;
+                dto.DailyForecastSources = accuWeatherResult2.DailyForecast[0].Sources[0];
+                dto.DailyForecastMobileLink = accuWeatherResult2.DailyForecast[0].MobileLink;
+                dto.DailyForecastLink = accuWeatherResult2.DailyForecast[0].Link;
             }
 
             return dto;
