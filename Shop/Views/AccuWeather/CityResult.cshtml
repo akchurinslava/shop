@@ -1,0 +1,30 @@
+﻿@model Shop.Models.AccuWeather.AccuWeatherViewModel
+
+@{
+    ViewData["Title"] = "Weather";
+}
+<div class="container">
+    <h2>Weather in city:</h2>
+    <h2>@Html.DisplayFor(model => model.City)</h2>
+    <hr />
+
+    <div class="form-group row">
+        <label asp-for="AccuCitysKey" class="col-sm-2 col-form-label">City:</label>
+        @Html.DisplayFor(model => model.AccuCitysKey)
+    </div>
+    <div class="form-group row">
+        <label asp-for="City" class="col-sm-2 col-form-label">City:</label>
+        @Html.DisplayFor(model => model.City)
+    </div>
+    <div class="form-group row">
+        <label asp-for="HeadlinesEffectiveDate" class="col-sm-2 col-form-label">City:</label>
+        @Html.DisplayFor(model => model.HeadlinesEffectiveDate)
+    </div>
+    <div class="form-group row">
+        <label asp-for="HeadlinesEffectiveEpochDate" class="col-sm-2 col-form-label">City:</label>
+        @Html.DisplayFor(model => model.HeadlinesEffectiveEpochDate)
+    </div>
+
+
+
+</div>

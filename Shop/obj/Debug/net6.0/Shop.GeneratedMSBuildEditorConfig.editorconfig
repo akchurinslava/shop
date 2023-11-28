@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/AccuWeather/CityResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjdVdlYXRoZXIvQ2l0eVJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/AccuWeather/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjdVdlYXRoZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/ChuckNorris/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2h1Y2tOb3JyaXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

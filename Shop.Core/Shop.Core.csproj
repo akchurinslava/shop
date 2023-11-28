@@ -10,11 +10,13 @@
     <None Remove="Dto\OpenWeatherDtos\" />
     <None Remove="Dto\ChuckNorrisDtos\" />
     <None Remove="Dto\CocktailsDtos\" />
+    <None Remove="Dto\AccuWeatherDtos\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Dto\OpenWeatherDtos\" />
     <Folder Include="Dto\ChuckNorrisDtos\" />
     <Folder Include="Dto\CocktailsDtos\" />
+    <Folder Include="Dto\AccuWeatherDtos\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.0">
