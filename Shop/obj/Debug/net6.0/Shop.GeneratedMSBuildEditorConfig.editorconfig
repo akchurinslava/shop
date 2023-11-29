@@ -16,10 +16,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/my_pc/.nuget/packages/microsoft.dotnet.upgradeassistant.extensions.default.analyzers/0.4.421302/build/WebTypeReplacements.typemap]
-build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/AccuWeather/CityResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjdVdlYXRoZXIvQ2l0eVJlc3VsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
