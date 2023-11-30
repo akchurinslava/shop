@@ -26,6 +26,7 @@ namespace Shop.ApplicationServices.Services
 
             using (WebClient client2 = new WebClient())
 	        {
+                //Celsius metrics realized in AccuWeatherController.cs
                 string url2 = $"http://dataservice.accuweather.com/forecasts/v1/daily/1day/{dto.Key}?apikey={idAccuWeather}";
                 string json2 = client2.DownloadString(url2);
                 AccuWeatherResponseRootDto accuWeatherResult2 = new JavaScriptSerializer().Deserialize<AccuWeatherResponseRootDto>(json2);
