@@ -41,6 +41,8 @@ namespace Shop.ApplicationServices.Services
                 dto.DayIconPhrase = accuWeatherResult2.DailyForecasts[0].Day.IconPhrase;
                 dto.NightIconPhrase = accuWeatherResult2.DailyForecasts[0].Night.IconPhrase;
                 dto.Sources = accuWeatherResult2.DailyForecasts[0].Sources;
+                dto.DayIcon = accuWeatherResult2.DailyForecasts[0].Day.Icon;
+                dto.NighIcon = accuWeatherResult2.DailyForecasts[0].Night.Icon;
             }
             return dto;
         }

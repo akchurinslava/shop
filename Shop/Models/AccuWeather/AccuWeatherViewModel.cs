@@ -15,6 +15,8 @@ namespace Shop.Models.AccuWeather
         public string DayIconPhrase { get; set; }
         public string NightIconPhrase { get; set; }
         public List<string> Sources { get; set; }
+        public int DayIcon { get; set; }
+        public int NightIcon { get; set; }
     }
 }
 

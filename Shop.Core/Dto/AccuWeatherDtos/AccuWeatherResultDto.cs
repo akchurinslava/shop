@@ -18,6 +18,8 @@ namespace Shop.Core.Dto.AccuWeatherDtos
         public string DayIconPhrase { get; set; }
         public string NightIconPhrase { get; set; }
         public List<string> Sources { get; set; }
+        public int DayIcon { get; set; }
+        public int NighIcon { get; set; }
     }
     
 }

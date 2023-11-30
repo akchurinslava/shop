@@ -54,6 +54,8 @@ namespace Shop.Controllers
             vm.DayIconPhrase = dto.DayIconPhrase;
             vm.NightIconPhrase = dto.NightIconPhrase;
             vm.Sources = dto.Sources;
+            vm.DayIcon = dto.DayIcon;
+            vm.NightIcon = dto.NighIcon;
 
 
 
