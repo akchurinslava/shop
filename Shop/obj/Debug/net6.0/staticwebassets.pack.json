@@ -17,6 +17,22 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/wwwroot/images/child.jpeg",
+      "PackagePath": "staticwebassets/images/child.jpeg"
+    },
+    {
+      "Id": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/wwwroot/images/realest.jpeg",
+      "PackagePath": "staticwebassets/images/realest.jpeg"
+    },
+    {
+      "Id": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/wwwroot/images/spaceship.jpg",
+      "PackagePath": "staticwebassets/images/spaceship.jpg"
+    },
+    {
+      "Id": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/wwwroot/images/universe.gif",
+      "PackagePath": "staticwebassets/images/universe.gif"
+    },
+    {
       "Id": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

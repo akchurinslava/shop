@@ -22,6 +22,7 @@
     <Folder Include="Views\Cocktails\" />
     <Folder Include="Models\AccuWeather\" />
     <Folder Include="Views\AccuWeather\" />
+    <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -62,5 +63,8 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\images\" />
   </ItemGroup>
 </Project>

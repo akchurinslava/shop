@@ -7,6 +7,18 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Shop.styles.css" asp-append-version="true" />
+    <style>
+        body {
+            background-image: url("/images/universe.gif");
+            background-size: cover;
+            color: beige
+	     
+        }
+        nav {
+            background-image: url("/images/universe.gif");
+        }
+
+    </style>
 </head>
 <body>
     <header>
@@ -19,31 +31,31 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index" style="color: beige">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">About us</a>
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy" style="color: beige">About us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Spaceships" asp-action="Index">Spaceship</a>
+                            <a class="nav-link" asp-area="" asp-controller="Spaceships" asp-action="Index" style="color: beige">Spaceship</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="RealEstate" asp-action="Index">RealEstate</a>
+                            <a class="nav-link" asp-area="" asp-controller="RealEstate" asp-action="Index" style="color: beige">RealEstate</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Kindergarten" asp-action="Index">Kindergarten</a>
+                            <a class="nav-link" asp-area="" asp-controller="Kindergarten" asp-action="Index" style="color: beige">Kindergarten</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="OpenWeather" asp-action="Index">OpenWeather</a>
+                            <a class="nav-link" asp-area="" asp-controller="OpenWeather" asp-action="Index" style="color: beige">OpenWeather</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="ChuckNorris" asp-action="Index">ChuckNorris's Joke</a>
+                            <a class="nav-link" asp-area="" asp-controller="ChuckNorris" asp-action="Index" style="color: beige">ChuckNorris's Joke</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Cocktails" asp-action="Index">Cocktails</a>
+                            <a class="nav-link" asp-area="" asp-controller="Cocktails" asp-action="Index" style="color: beige">Cocktails</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="AccuWeather" asp-action="Index">AccuWeather</a>
+                            <a class="nav-link" asp-area="" asp-controller="AccuWeather" asp-action="Index" style="color: beige">AccuWeather</a>
                         </li>
                     </ul>
                 </div>
@@ -56,13 +68,13 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted mt-4">
+    <!--<footer class="footer text-muted mt-4">
         <div class="container">
-            <div class="text-center">
-            &copy; @DateTime.Now.Year - Shop - <a asp-area="" asp-controller="Home" asp-action="Privacy">About us</a>
-            </div>
-        </div>
-    </footer>
+            <div class="text-center">-->
+            @*&copy; @DateTime.Now.Year - Shop - <a asp-area="" asp-controller="Home" asp-action="Privacy" >About us</a>
+            </div>*@
+        <!--</div>
+    </footer>-->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
