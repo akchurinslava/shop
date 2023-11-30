@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uT9fxuh7zgUQav7ui6WOdYyZ303VzMPTTmkFWfRXaBWdtAYLOey04TLMTsjfGMkwFzey8lszMAmsFKDalKfSug==",
+  "dgSpecHash": "XiZFCUbhh/Ou11+0Ydn6jzagn2UO6obkH41yzigqY5jmulzB7c+UkOhQXlHjSwU2/gMMX41qMqN8I+/D+/D9Bw==",
   "success": true,
-  "projectFilePath": "/Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop.RealestateTest/Shop.RealestateTest.csproj",
+  "projectFilePath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop.RealestateTest/Shop.RealestateTest.csproj",
   "expectedPackageFiles": [
     "/Users/my_pc/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/my_pc/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

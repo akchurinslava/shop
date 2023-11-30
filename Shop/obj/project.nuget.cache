@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ONnKuw70YPBz7uYMJzUrPVuWi/sTk49m8WW0V31RcPQY17FRDF2mIfuuKzJK9vAHZGkB7thVOLh4w8tI5K9X2Q==",
+  "dgSpecHash": "FhA4BGfbFharVMNukk1BrD8fTKSgJHI3U/TpswyqtvOSmeuldaYkAwEGGsSapsDLRQ4hlhxLwgud5y3c207PZg==",
   "success": true,
-  "projectFilePath": "/Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Shop.csproj",
+  "projectFilePath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Shop.csproj",
   "expectedPackageFiles": [
     "/Users/my_pc/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/my_pc/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

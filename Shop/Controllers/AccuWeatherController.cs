@@ -42,37 +42,18 @@ namespace Shop.Controllers
             _accuWeatherServices.AccuWeatherResult(dto);
             AccuWeatherViewModel vm = new();
 
-
-            vm.AccuCitysKey = dto.AccuCitysKey;
+            vm.Key = dto.Key;
             vm.City = dto.City;
-            vm.HeadlinesEffectiveDate = dto.HeadlinesEffectiveDate;
-            vm.HeadlinesEffectiveEpochDate = dto.HeadlinesEffectiveEpochDate;
-            vm.HeadlinesSeverity = dto.HeadlinesSeverity;
-            vm.HeadlinesText = dto.HeadlinesText;
-            vm.HeadlinesCategory = dto.HeadlinesCategory;
-            vm.HeadlinesEndDate = dto.HeadlinesEndDate;
-            vm.HeadlinesEndEpochDate = dto.HeadlinesEndEpochDate;
-            vm.HeadlinesMobileLink = dto.HeadlinesMobileLink;
-            vm.HeadlinesLink = dto.HeadlinesLink;
-            vm.DailyForecastDate = dto.DailyForecastDate;
-            vm.DailyForecastEpochDate = dto.DailyForecastEpochDate;
-            vm.DailyForecastTemperaturesMinimumsValue = dto.DailyForecastTemperaturesMinimumsValue;
-            vm.DailyForecastTemperaturesMinimumsUnit = dto.DailyForecastTemperaturesMinimumsUnit;
-            vm.DailyForecastTemperaturesMinimumsUnitType = dto.DailyForecastTemperaturesMinimumsUnitType;
-            vm.DailyForecastTemperaturesMaximumsValue = dto.DailyForecastTemperaturesMaximumsValue;
-            vm.DailyForecastTemperaturesMaximumsUnit = dto.DailyForecastTemperaturesMaximumsUnit;
-            vm.DailyForecastTemperaturesMaximumsUnitType = dto.DailyForecastTemperaturesMaximumsUnitType;
-            vm.DailyForecastDaysIcon = dto.DailyForecastDaysIcon;
-            vm.DailyForecastDaysIconPhrase = dto.DailyForecastDaysIconPhrase;
-            vm.DailyForecastDaysHasPrecipitation = dto.DailyForecastDaysHasPrecipitation;
-            vm.DailyForecastDaysPrecipitationType = dto.DailyForecastDaysPrecipitationType;
-            vm.DailyForecastDaysPrecipitationIntensity = dto.DailyForecastDaysPrecipitationIntensity;
-            vm.DailyForecastNightsIcon = dto.DailyForecastNightsIcon;
-            vm.DailyForecastNightsIconPhrase = dto.DailyForecastNightsIconPhrase;
-            vm.DailyForecastNightsHasPrecipitation = dto.DailyForecastNightsHasPrecipitation;
-            vm.DailyForecastSources = dto.DailyForecastSources;
-            vm.DailyForecastMobileLink = dto.DailyForecastMobileLink;
-            vm.DailyForecastLink = dto.DailyForecastLink;
+            vm.Minimum = (dto.Minimum - 32) * 5 / 9;
+            vm.Maximum = (dto.Maximum - 32) * 5 / 9;
+            vm.Link = dto.Link;
+            vm.Text = dto.Text;
+            vm.MobileLink = dto.MobileLink;
+            vm.Date = dto.Date;
+            //vm.Category = dto.Category;
+            vm.DayIconPhrase = dto.DayIconPhrase;
+            vm.NightIconPhrase = dto.NightIconPhrase;
+            vm.Sources = dto.Sources;
 
 
 

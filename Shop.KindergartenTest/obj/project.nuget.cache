@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Y46f6+uWsdI9zgKFgeIRFGlGdd+0XRoUGI3PaNQelZC1xITxrsRfguuSyoeut17kSAvoHuNO6EMKRaDbxMOJA==",
+  "dgSpecHash": "zCXonC0Ok7KggkwnkfvjNVVg/sRWE/beuUUUHNkRSVWOk+A8Sk6JtHsGs23VMMKCRsUIVcS9wyhHEqv0HWJXSQ==",
   "success": true,
-  "projectFilePath": "/Users/my_pc/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj",
+  "projectFilePath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj",
   "expectedPackageFiles": [
     "/Users/my_pc/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/my_pc/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
