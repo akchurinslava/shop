@@ -11,12 +11,14 @@
     <None Remove="Dto\ChuckNorrisDtos\" />
     <None Remove="Dto\CocktailsDtos\" />
     <None Remove="Dto\AccuWeatherDtos\" />
+    <None Remove="Dto\EmailDtos\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Dto\OpenWeatherDtos\" />
     <Folder Include="Dto\ChuckNorrisDtos\" />
     <Folder Include="Dto\CocktailsDtos\" />
     <Folder Include="Dto\AccuWeatherDtos\" />
+    <Folder Include="Dto\EmailDtos\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.0">
@@ -46,5 +48,6 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="MailKit" Version="4.3.0" />
   </ItemGroup>
 </Project>

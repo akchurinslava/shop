@@ -23,6 +23,8 @@
     <Folder Include="Models\AccuWeather\" />
     <Folder Include="Views\AccuWeather\" />
     <Folder Include="wwwroot\images\" />
+    <Folder Include="Models\Email\" />
+    <Folder Include="Views\Email\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -34,6 +36,8 @@
     <None Remove="Views\Cocktails\" />
     <None Remove="Models\AccuWeather\" />
     <None Remove="Views\AccuWeather\" />
+    <None Remove="Models\Email\" />
+    <None Remove="Views\Email\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.0">
@@ -63,6 +67,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="MailKit" Version="4.3.0" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\images\" />

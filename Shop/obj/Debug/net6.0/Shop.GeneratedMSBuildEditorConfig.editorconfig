@@ -9,125 +9,133 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shop
 build_property.RootNamespace = Shop
-build_property.ProjectDir = /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/
+build_property.ProjectDir = /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop
+build_property.MSBuildProjectDirectory = /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/AccuWeather/CityResult.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/AccuWeather/CityResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjdVdlYXRoZXIvQ2l0eVJlc3VsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/AccuWeather/Index.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/AccuWeather/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjdVdlYXRoZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/ChuckNorris/Index.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/ChuckNorris/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2h1Y2tOb3JyaXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/ChuckNorris/Joke.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/ChuckNorris/Joke.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2h1Y2tOb3JyaXMvSm9rZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Cocktails/CocktailsResult.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Cocktails/CocktailsResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29ja3RhaWxzL0NvY2t0YWlsc1Jlc3VsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Cocktails/Index.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Cocktails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29ja3RhaWxzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Home/Index.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Email/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1haWwvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Email/SendEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1haWwvU2VuZEVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Home/Privacy.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Kindergarten/CreateUpdate.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Kindergarten/CreateUpdate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS2luZGVyZ2FydGVuL0NyZWF0ZVVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Kindergarten/Delete.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Kindergarten/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS2luZGVyZ2FydGVuL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Kindergarten/Details.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Kindergarten/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS2luZGVyZ2FydGVuL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Kindergarten/Index.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Kindergarten/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS2luZGVyZ2FydGVuL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/OpenWeather/City.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/OpenWeather/City.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlbldlYXRoZXIvQ2l0eS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/OpenWeather/Index.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/OpenWeather/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlbldlYXRoZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/RealEstate/CreateUpdate.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/RealEstate/CreateUpdate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVhbEVzdGF0ZS9DcmVhdGVVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/RealEstate/Delete.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/RealEstate/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVhbEVzdGF0ZS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/RealEstate/Details.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/RealEstate/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVhbEVzdGF0ZS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/RealEstate/Index.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/RealEstate/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVhbEVzdGF0ZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/RealEstate/_Images.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/RealEstate/_Images.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVhbEVzdGF0ZS9fSW1hZ2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Shared/Error.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Spaceships/CreateUpdate.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Spaceships/CreateUpdate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BhY2VzaGlwcy9DcmVhdGVVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Spaceships/Delete.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Spaceships/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BhY2VzaGlwcy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Spaceships/Details.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Spaceships/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BhY2VzaGlwcy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Spaceships/Index.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Spaceships/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BhY2VzaGlwcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Spaceships/_Images.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Spaceships/_Images.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BhY2VzaGlwcy9fSW1hZ2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/_ViewImports.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/_ViewStart.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop/Views/Shared/_Layout.cshtml]
+[/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f72dydelzw

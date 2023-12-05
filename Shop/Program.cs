@@ -7,6 +7,7 @@ using Shop.Data;
 
 
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -33,6 +34,8 @@ builder.Services.AddScoped<IChuckNorrisServices, ChuckNorrisServices>();
 builder.Services.AddScoped<ICocktailsServices, CocktailsServices>();
 
 builder.Services.AddScoped<IAccuWeatherServices, AccuWeatherServices>();
+
+builder.Services.AddScoped<IEmailServices, EmailServices>();
 
 var app = builder.Build();
 
