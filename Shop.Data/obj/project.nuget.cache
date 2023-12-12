@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q3ar9VYYoFpLvVTUNCQAIZVab2L0Z7K1NXNoa3WFpzPan7to08fHZIG+P/q+xvjLznycibwu7cQgPzdu7IG71Q==",
+  "dgSpecHash": "XClEVVYYeSpnizDdOltG+zd2NmQmhB0gx5xGH/2G2fhZJxQ5QZ+rMQfVIJGWVFclRz+gj2s57WSyLIhxh/vw8Q==",
   "success": true,
   "projectFilePath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/Shop.Data.csproj",
   "expectedPackageFiles": [
@@ -164,14 +164,14 @@
     "/Users/my_pc/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/my_pc/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/Users/my_pc/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "/Users/my_pc/.nuget/packages/xunit/2.6.2/xunit.2.6.2.nupkg.sha512",
+    "/Users/my_pc/.nuget/packages/xunit/2.6.3/xunit.2.6.3.nupkg.sha512",
     "/Users/my_pc/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
-    "/Users/my_pc/.nuget/packages/xunit.analyzers/1.6.0/xunit.analyzers.1.6.0.nupkg.sha512",
-    "/Users/my_pc/.nuget/packages/xunit.assert/2.6.2/xunit.assert.2.6.2.nupkg.sha512",
-    "/Users/my_pc/.nuget/packages/xunit.core/2.6.2/xunit.core.2.6.2.nupkg.sha512",
-    "/Users/my_pc/.nuget/packages/xunit.extensibility.core/2.6.2/xunit.extensibility.core.2.6.2.nupkg.sha512",
-    "/Users/my_pc/.nuget/packages/xunit.extensibility.execution/2.6.2/xunit.extensibility.execution.2.6.2.nupkg.sha512",
-    "/Users/my_pc/.nuget/packages/xunit.runner.visualstudio/2.5.4/xunit.runner.visualstudio.2.5.4.nupkg.sha512"
+    "/Users/my_pc/.nuget/packages/xunit.analyzers/1.7.0/xunit.analyzers.1.7.0.nupkg.sha512",
+    "/Users/my_pc/.nuget/packages/xunit.assert/2.6.3/xunit.assert.2.6.3.nupkg.sha512",
+    "/Users/my_pc/.nuget/packages/xunit.core/2.6.3/xunit.core.2.6.3.nupkg.sha512",
+    "/Users/my_pc/.nuget/packages/xunit.extensibility.core/2.6.3/xunit.extensibility.core.2.6.3.nupkg.sha512",
+    "/Users/my_pc/.nuget/packages/xunit.extensibility.execution/2.6.3/xunit.extensibility.execution.2.6.3.nupkg.sha512",
+    "/Users/my_pc/.nuget/packages/xunit.runner.visualstudio/2.5.5/xunit.runner.visualstudio.2.5.5.nupkg.sha512"
   ],
   "logs": []
 }

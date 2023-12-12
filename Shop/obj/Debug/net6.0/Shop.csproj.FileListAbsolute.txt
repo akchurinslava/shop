@@ -774,3 +774,4 @@ C:/Users/opilane/source/repos/Shop-main/Shop/bin/Debug/net6.0/Microsoft.Web.Infr
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/obj/Debug/net6.0/Shop.pdb
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/obj/Debug/net6.0/Shop.genruntimeconfig.cache
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/obj/Debug/net6.0/ref/Shop.dll
+/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/bin/Debug/net6.0/libman.json

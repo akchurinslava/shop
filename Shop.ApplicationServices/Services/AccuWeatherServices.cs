@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Nancy.Json;
 using Shop.Core.Dto;
 using System.Net;
@@ -9,7 +9,7 @@ namespace Shop.ApplicationServices.Services
 {
 	public class AccuWeatherServices : IAccuWeatherServices
 	{
-        string idAccuWeather = "OzlLe4SWB3TgPL8MG1MDzKmlMZGaDpCX";
+        string idAccuWeather = "****";
         public async Task<AccuWeatherResultDto> AccuWeatherResult(AccuWeatherResultDto dto)
         {
             

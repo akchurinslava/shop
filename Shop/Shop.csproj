@@ -25,6 +25,8 @@
     <Folder Include="wwwroot\images\" />
     <Folder Include="Models\Email\" />
     <Folder Include="Views\Email\" />
+    <Folder Include="Hubs\" />
+    <Folder Include="Views\SignalR\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -38,6 +40,8 @@
     <None Remove="Views\AccuWeather\" />
     <None Remove="Models\Email\" />
     <None Remove="Views\Email\" />
+    <None Remove="Hubs\" />
+    <None Remove="Views\SignalR\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.0">
@@ -62,8 +66,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
     <PackageReference Include="Nancy" Version="2.0.0" />
-    <PackageReference Include="xunit" Version="2.6.2" />
-    <PackageReference Include="xunit.runner.visualstudio" Version="2.5.4">
+    <PackageReference Include="xunit" Version="2.6.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.5.5">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
