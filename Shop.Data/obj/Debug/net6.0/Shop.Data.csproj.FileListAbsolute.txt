@@ -373,11 +373,11 @@ C:/Users/opilane/source/repos/Shop-main/Shop.Data/obj/Debug/net6.0/ref/Shop.Data
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop.Data/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/iCloudDrive/devorg_ou/programming/github/Shop/Shop.Data/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/CoverletSourceRootsMapping_Shop.Data
+/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Shop.Core.deps.json
+/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Shop.Core.runtimeconfig.json
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
-/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Shop.Core.deps.json
-/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Shop.Core.runtimeconfig.json
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Shop.Data.deps.json
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Shop.Data.runtimeconfig.json
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Shop.Data.dll
@@ -387,7 +387,10 @@ C:/Users/opilane/source/repos/Shop-main/Shop.Data/obj/Debug/net6.0/ref/Shop.Data
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Humanizer.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/MailKit.dll
-/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Features.dll
+/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
@@ -406,7 +409,10 @@ C:/Users/opilane/source/repos/Shop-main/Shop.Data/obj/Debug/net6.0/ref/Shop.Data
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/Microsoft.Extensions.Logging.Configuration.dll
@@ -443,7 +449,6 @@ C:/Users/opilane/source/repos/Shop-main/Shop.Data/obj/Debug/net6.0/ref/Shop.Data
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/System.Drawing.Common.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/System.Formats.Asn1.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
-/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/System.IO.Pipelines.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/System.Memory.Data.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/System.Runtime.Caching.dll
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
